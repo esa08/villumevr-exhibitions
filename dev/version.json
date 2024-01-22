@@ -8,31 +8,31 @@
     {
         "name" : "belfast",
         "version" : 0.1,
-        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/belfast",
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/belfast",
         "source_asset" : "" 
     },
     {
         "name" : "fjord",
         "version" : 0.1,
-        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/fjord",
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/fjord",
         "source_asset" : "" 
     },
     {
         "name" : "hokkaido",
         "version" : 0.1,
-        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/hokkaido",
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido",
         "source_asset" : "" 
     },
     {
         "name" : "nippon",
         "version" : 0.1,
-        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/nippon",
-        "source_asset" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/nippon_assets" 
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/nippon",
+        "source_asset" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/nippon_assets" 
     },
     {
         "name" : "pueblo",
         "version" : 0.1,
-        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/pueblo",
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/pueblo",
         "source_asset" : "" 
     }
 ]
