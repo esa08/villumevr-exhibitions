@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "alexandria",
+        "version" : 0.1,
+        "source" : "https://",
+        "source_asset" : "https://" 
+    },
+    {
+        "name" : "belfast",
+        "version" : 0.1,
+        "source" : "https://",
+        "source_asset" : "https://" 
+    },
+    {
+        "name" : "fjord",
+        "version" : 0.1,
+        "source" : "https://",
+        "source_asset" : "https://" 
+    },
+    {
+        "name" : "hokkaido",
+        "version" : 0.1,
+        "source" : "https://",
+        "source_asset" : "https://" 
+    },
+    {
+        "name" : "nippon",
+        "version" : 0.1,
+        "source" : "https://",
+        "source_asset" : "https://" 
+    },
+    {
+        "name" : "pueblo",
+        "version" : 0.1,
+        "source" : "https://",
+        "source_asset" : "https://" 
+    }
+]
