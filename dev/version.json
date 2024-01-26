@@ -34,5 +34,11 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/pueblo",
         "source_asset" : "" 
+    },
+    {
+        "name" : "brooklyn",
+        "version" : 0.1,
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/brooklyn",
+        "source_asset" : "" 
     }
 ]
