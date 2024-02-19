@@ -3,7 +3,7 @@
         "name" : "alexandria",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/alexandria/alexandria",
-        "source_asset" : "https://github.com/esa08/villumevr-exhibitions/blob/master/live/alexandria/alexandria_assets" 
+        "source_asset" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/alexandria/alexandria_assets" 
     },
     {
         "name" : "belfast",
