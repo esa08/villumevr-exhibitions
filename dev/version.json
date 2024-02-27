@@ -8,7 +8,7 @@
     },
     {
         "name" : "alexandria",
-        "type" : "without_column",
+        "type" : "without_columns",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/alexandria_without_column",
         "source_asset" : "" 
