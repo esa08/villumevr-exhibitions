@@ -1,42 +1,63 @@
 [
     {
         "name" : "alexandria",
+        "type" : "default",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/alexandria",
-        "source_asset" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/alexandria_assets" 
+        "source_asset" : "" 
+    },
+    {
+        "name" : "alexandria",
+        "type" : "without_column",
+        "version" : 0.1,
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/alexandria",
+        "source_asset" : "" 
     },
     {
         "name" : "belfast",
+        "type" : "default",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/belfast",
         "source_asset" : "" 
     },
     {
         "name" : "fjord",
+        "type" : "default",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/fjord",
         "source_asset" : "" 
     },
     {
         "name" : "hokkaidō",
+        "type" : "default",
+        "version" : 0.1,
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido",
+        "source_asset" : "" 
+    },
+    {
+        "name" : "hokkaidō",
+        "type" : "concrete_floor",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido",
         "source_asset" : "" 
     },
     {
         "name" : "nippon",
+        "type" : "default",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/nippon",
         "source_asset" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/nippon_assets" 
     },
     {
         "name" : "pueblo",
+        "type" : "default",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/pueblo",
         "source_asset" : "" 
     },
     {
         "name" : "brooklyn",
+        "type" : "default",
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/brooklyn",
         "source_asset" : "" 
