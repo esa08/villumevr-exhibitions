@@ -3,14 +3,14 @@
         "name" : "alexandria",
         "type" : "default",
         "version" : 0.1,
-        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/alexandria/alexandria",
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/alexandria/alexandria_column",
         "source_asset" : "" 
     },
     {
         "name" : "alexandria",
         "type" : "without_column",
         "version" : 0.1,
-        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/alexandria/alexandria",
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/alexandria/alexandria_without_column",
         "source_asset" : "" 
     },
     {
@@ -38,7 +38,7 @@
         "name" : "hokkaidō",
         "type" : "concrete_floor",
         "version" : 0.1,
-        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/hokkaido",
+        "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/hokkaido_concrete_floor",
         "source_asset" : "" 
     },
     {
