@@ -41,7 +41,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido_ios",
-        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/lightmap_internal_hokkaido",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/lightmap_internal_hokkaido_wooden",
         "source_asset" : "" 
     },
     {
@@ -50,7 +50,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido_concrete_floor",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido_concrete_floor_ios",
-        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/lightmap_internal_hokkaido_concrete_floor",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/lightmap_internal_hokkaido_concrete",
         "source_asset" : "" 
     },
     {
