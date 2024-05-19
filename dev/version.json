@@ -32,7 +32,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/fjord",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/fjord_ios",
-        "source_lightmap_internal" : "",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/lightmap_internal_fjord",
         "source_asset" : "" 
     },
     {
