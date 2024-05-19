@@ -68,7 +68,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/pueblo",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/pueblo_ios",
-        "source_lightmap_internal" : "",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/lightmap_internal_pueblo",
         "source_asset" : "" 
     },
     {
@@ -77,7 +77,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/brooklyn",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/brooklyn_ios",
-        "source_lightmap_internal" : "",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/lightmap_internal_brooklyn",
         "source_asset" : "" 
     }
 ]
