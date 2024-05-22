@@ -32,7 +32,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/fjord/fjord",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/fjord/fjord_ios",
-        "source_lightmap_internal" : "",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/fjord/lightmap_internal_fjord",
         "source_asset" : "" 
     },
     {
@@ -41,7 +41,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/hokkaido",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/hokkaido_ios",
-        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/lightmap_internal_hokkaido",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/lightmap_internal_hokkaido_wooden",
         "source_asset" : "" 
     },
     {
@@ -50,7 +50,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/hokkaido_concrete_floor",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/hokkaido_concrete_floor_ios",
-        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/lightmap_internal_hokkaido_concrete_floor",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/hokkaido/lightmap_internal_hokkaido_concrete",
         "source_asset" : "" 
     },
     {
@@ -68,7 +68,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/pueblo/pueblo",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/pueblo/pueblo_ios",
-        "source_lightmap_internal" : "",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/pueblo/lightmap_internal_pueblo",
         "source_asset" : "" 
     },
     {
@@ -77,7 +77,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/brooklyn/brooklyn",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/brooklyn/brooklyn_ios",
-        "source_lightmap_internal" : "",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/brooklyn/lightmap_internal_brooklyn",
         "source_asset" : "" 
     }
 ]
