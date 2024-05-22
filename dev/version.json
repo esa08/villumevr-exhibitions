@@ -15,6 +15,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/alexandria_without_column",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/alexandria_without_column_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/lightmap_internal_alexandria_without_column",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/lightmap_internal_alexandria_without_column_ios",
         "source_asset" : "" 
     },
     {
@@ -33,6 +34,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/fjord",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/fjord_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/lightmap_internal_fjord",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/fjord/lightmap_internal_fjord_ios",
         "source_asset" : "" 
     },
     {
@@ -42,6 +44,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/lightmap_internal_hokkaido_wooden",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/lightmap_internal_hokkaido_wooden_ios",
         "source_asset" : "" 
     },
     {
@@ -51,6 +54,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido_concrete_floor",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/hokkaido_concrete_floor_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/lightmap_internal_hokkaido_concrete",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/hokkaido/lightmap_internal_hokkaido_concrete_ios",
         "source_asset" : "" 
     },
     {
@@ -60,6 +64,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/nippon",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/nippon_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/lightmap_internal_nippon",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/lightmap_internal_nippon_ios",
         "source_asset" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/nippon/nippon_assets" 
     },
     {
@@ -78,6 +83,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/brooklyn",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/brooklyn_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/lightmap_internal_brooklyn",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/lightmap_internal_brooklyn_ios",
         "source_asset" : "" 
     }
 ]
