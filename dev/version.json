@@ -24,7 +24,7 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/belfast",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/belfast_ios",
-        "source_lightmap_internal" : "",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/lightmap_internal_belfast",
         "source_asset" : "" 
     },
     {
