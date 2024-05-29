@@ -76,6 +76,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/pueblo/pueblo",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/pueblo/pueblo_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/pueblo/lightmap_internal_pueblo",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/pueblo/lightmap_internal_pueblo_ios",
         "source_asset" : "" 
     },
     {
