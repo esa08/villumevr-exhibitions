@@ -6,6 +6,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/alexandria_column",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/alexandria_column_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/lightmap_internal_alexandria_column",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/alexandria/lightmap_internal_alexandria_column_ios",
         "source_asset" : "" 
     },
     {
@@ -24,7 +25,8 @@
         "version" : 0.1,
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/belfast",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/belfast_ios",
-        "source_lightmap_internal" : "",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/lightmap_internal_belfast",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/belfast/lightmap_internal_belfast_ios",
         "source_asset" : "" 
     },
     {
@@ -74,6 +76,7 @@
         "source" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/pueblo",
         "source_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/pueblo_ios",
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/lightmap_internal_pueblo",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/pueblo/lightmap_internal_pueblo_ios",
         "source_asset" : "" 
     },
     {
