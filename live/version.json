@@ -93,8 +93,8 @@
         "name" : "oslo",
         "type" : "default",
         "version" : 0.1,
-        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/brooklyn/lightmap_internal_oslo",
-        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/brooklyn/lightmap_internal_oslo_ios",
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/oslo/lightmap_internal_oslo",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/live/oslo/lightmap_internal_oslo_ios",
         "source_asset" : "" 
     }
 ]
