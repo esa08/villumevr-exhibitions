@@ -88,5 +88,13 @@
         "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/lightmap_internal_brooklyn",
         "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/lightmap_internal_brooklyn_ios",
         "source_asset" : "" 
+    },
+    {
+        "name" : "nippon",
+        "type" : "default",
+        "version" : 0.1,
+        "source_lightmap_internal" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/lightmap_internal_oslo",
+        "source_lightmap_internal_ios" : "https://github.com/esa08/villumevr-exhibitions/raw/master/dev/brooklyn/lightmap_internal_oslo_ios",
+        "source_asset" : "" 
     }
 ]
